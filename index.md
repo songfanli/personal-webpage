@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Fellow at Hong Kong University of Science and Technology (HKUST).
+I am currently a Postdoctoral Fellow at Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Mo Li. I was a Reaserch Fellow at NTU.
 
 ## Research Interests
 
