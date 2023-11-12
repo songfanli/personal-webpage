@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Postdoctoral Fellow at Hong Kong University of Science and Technology (HKUST).
 
 ## Research Interests
 
