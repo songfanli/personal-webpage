@@ -25,7 +25,7 @@ main:
     authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
     conference_short: NSDI 2022
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
- #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #   bibtex: https://bib.yliu.me/MICCAI23.txt
  #   image: ./assets/img/teaser_example_2.png
