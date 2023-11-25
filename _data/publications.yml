@@ -23,7 +23,7 @@ main:
 
   - title: Passive DSSS
     authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
-    conference_short: NSDI
+    conference_short: NSDI 2022
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
  #   code: https://github.com/MrGiovanni/ContinualLearning
