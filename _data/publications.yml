@@ -35,6 +35,20 @@ main:
     pdf: https://
 #    image: ./assets/img/teaser_example.png
 
+  - title: "LEGO: Empowering Chip-level Functionality Plug-and-play for Next-generation IoT devices"
+    authors: Chong Zhang, <strong>Songfan Li</strong>, Yihang Song, Qianhe Meng, Minghua Chen, YanXu Bai,  Li Lu, Hongzi Zhu
+    conference_short: ASPLOS'23
+    conference: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Frequency Scaling Meets Intermittency: Optimizing Task Rate for RFID-Scale Computing Devices"
+    authors: <strong>Songfan Li</strong>, Shengyu Li, Minghua Chen, Chao Song, Li Lu
+    conference_short: TMC'23
+    conference: IEEE Transactions on Mobile Computing (TMC), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
   - title: "Passive DSSS: Empowering the Downlink Communication for Backscatter Systems"
     authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
     conference_short: NSDI'22
