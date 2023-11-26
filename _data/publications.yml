@@ -21,9 +21,18 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
-  - title: Passive DSSS
+  - title: Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter
+    authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
+    pdf: https://
+    page: https://
+    bibtex: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: Passive DSSS: Empowering the Downlink Communication for Backscatter Systems
     authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
-    conference_short: NSDI 2022
+    conference_short: NSDI'22
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
     pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
  #   code: https://github.com/MrGiovanni/ContinualLearning
