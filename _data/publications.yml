@@ -63,3 +63,37 @@ main:
     pdf: https://
  #   image: ./assets/img/teaser_example_2.png
 
+  - title: "Rethinking Power Efficiency for Next-Generation Processor-Free Sensing Devices"
+    authors: Yihang Song, <strong>Songfan Li</strong>, Chong Zhang, Shengyu Li, Li Lu
+    conference_short: Sensors'22
+    conference: Sensors, 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "BioTouch: Reliable Re-Authentication via Finger Bio-Capacitance and Touching Behavior"
+    authors: Chong Zhang, Songfan Li, Yihang Song, Qianhe Meng, Li Lu, Mengshu Hou
+    conference_short: Sensors'22
+    conference: Sensors, 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "A Spectrum-Efficient Cross-Layer RF Distance Bounding Scheme"
+    authors: Yihang Song, <strong>Songfan Li</strong>, Chong Zhang, Li Lu
+    conference_short: SCN'22
+    conference: Security and Communication Networks, 2021.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter"
+    authors: <strong>Songfan Li</strong>, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu, Li Lu and Mo Li
+    conference_short: MobiCom'20
+    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2020.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "Sentinel: Breaking the Bottleneck of Energy Utilization Efficiency in RF-Powered Devices"
+    authors: Songfan Li, Li Lu, Muhammad Jawad Hussain, Yalan Ye and Hongzi Zhu
+    conference_short: IoTJ'19
+    conference: IEEE Internet of Things Journal, vol. 6, no. 1, pp. 705-717, Feb. 2019.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
