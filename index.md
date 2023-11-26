@@ -13,7 +13,7 @@ I am currently a postdoctoral fellow in the Department of Computer Science and E
 
 ## News
 
-- **[Nov. 2023]** Hello world! - this page is online :)
+- **[25 Nov. 2023]** Hello world! - this page is online :)
 <!--- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 <!-- This content will not appear in the rendered Markdown -->
 
