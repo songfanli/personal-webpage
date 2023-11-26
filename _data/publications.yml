@@ -55,5 +55,11 @@ main:
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
     pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
  #   image: ./assets/img/teaser_example_2.png
- 
+
+  - title: "Chipnet: Enabling Large-scale Backscatter Network with Processor-free Devices"
+    authors: Yihang Song, Chao Song, Li Lu, Shen Yang, <strong>Songfan Li</strong>, Chong Zhang, Qianhe Meng, Xiandong Shao and Haili Wang
+    conference_short: TOSN'22
+    conference: ACM Transaction on Sensor Networks (TOSN), 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
 
