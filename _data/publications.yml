@@ -25,9 +25,14 @@ main:
     authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
     conference_short: TDSC
     conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
-    pdf: https://class-il.mpi-inf.mpg.de/mnemonics/
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications"
+    authors: <strong>Songfan Li</strong>, Qianhe Meng, YanXu Bai, Chong Zhang, Yihang Song, Shengyu Li, Li Lu
+    conference_short: MobiCom'23
+    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2023.
+    pdf: https://
 #    image: ./assets/img/teaser_example.png
 
   - title: "Passive DSSS: Empowering the Downlink Communication for Backscatter Systems"
