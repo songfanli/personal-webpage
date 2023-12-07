@@ -19,7 +19,7 @@
           <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
         </div>
-        <a href="{{ link.pdf }}">{{ link.title }}</a>
+        <nobr> <a href="{{ link.pdf }}">{{ link.title }}</a> <nobr>
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
