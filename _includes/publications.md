@@ -14,7 +14,7 @@
       <div class="title">
         <a class="col-sm-3 abbr">
           {% if link.conference_short %} 
-            <a style="color:red">[{{ link.conference_short }}]&nbsp;&nbsp;&nbsp;&nbsp;</a>
+            <a style="color:red">[{{ link.conference_short }}]&nbsp;</a>
           {% endif %}
         </a>
         <a href="{{ link.pdf }}">{{ link.title }}</a>
