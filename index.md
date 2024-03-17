@@ -15,10 +15,9 @@ I am currently a postdoctoral fellow in the Department of Computer Science and E
 <strong>My research goal is to enable ubiquitous instrumentation of the physical world, anytime and anywhere.<br></strong>
 
 I am currently focusing on ultra-low power enabling techniques for the Internet of Things (IoT). I am deeply interested in enabling new paradigms of communication and computing on energy-constrained IoT devices, as well as optimizing power in IoT end devices while retaining their desired functions. My recent work involves shifting sensor control and data processing from IoT end devices to gateways, thus enabling remote computation and device management at the gateway (see <a href="https://dl.acm.org/doi/10.1145/3372224.3419182">R2B</a>). Additionally, I have extensively studied zero-power wireless communication and developed an ultra-low power spread-spectrum technique to address existing backscatter system challenges (see <a href="https://www.usenix.org/conference/nsdi22/presentation/li-songfan">Passive DSSS</a>). 
-
-There are some keywords related to my research:
 </div>
 
+There are some keywords related to my research:
 - **Internet of Things:** LoRa, ultra-low power, battery-free
 - **Smart Reflection:** meta-surface, backscatter, reconfigurable intelligent surface
 
