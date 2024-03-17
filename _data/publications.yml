@@ -21,6 +21,8 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
+## Conference Papaers
+
   - title: "Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter"
     authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
     conference_short: TDSC
@@ -55,6 +57,8 @@ main:
     conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
     pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
  #   image: ./assets/img/teaser_example_2.png
+
+## Journal Papaers
 
   - title: "Chipnet: Enabling Large-scale Backscatter Network with Processor-free Devices"
     authors: Yihang Song, Chao Song, Li Lu, Shen Yang, <strong>Songfan Li</strong>, Chong Zhang, Qianhe Meng, Xiandong Shao and Haili Wang
