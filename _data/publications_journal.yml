@@ -21,7 +21,7 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
-## Conference Papaers
+
 
   - title: "Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter"
     authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
@@ -30,19 +30,6 @@ main:
     pdf: https://
 #    image: ./assets/img/teaser_example.png
 
-  - title: "Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications"
-    authors: <strong>Songfan Li</strong>, Qianhe Meng, YanXu Bai, Chong Zhang, Yihang Song, Shengyu Li, Li Lu
-    conference_short: MobiCom'23
-    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2023.
-    pdf: https://
-#    image: ./assets/img/teaser_example.png
-
-  - title: "LEGO: Empowering Chip-level Functionality Plug-and-play for Next-generation IoT devices"
-    authors: Chong Zhang, <strong>Songfan Li</strong>, Yihang Song, Qianhe Meng, Minghua Chen, YanXu Bai,  Li Lu, Hongzi Zhu
-    conference_short: ASPLOS'23
-    conference: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023.
-    pdf: https://
-#    image: ./assets/img/teaser_example.png
 
   - title: "Frequency Scaling Meets Intermittency: Optimizing Task Rate for RFID-Scale Computing Devices"
     authors: <strong>Songfan Li</strong>, Shengyu Li, Minghua Chen, Chao Song, Li Lu
@@ -51,14 +38,6 @@ main:
     pdf: https://
 #    image: ./assets/img/teaser_example.png
 
-  - title: "Passive DSSS: Empowering the Downlink Communication for Backscatter Systems"
-    authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
-    conference_short: NSDI'22
-    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
-    pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
- #   image: ./assets/img/teaser_example_2.png
-
-## Journal Papaers
 
   - title: "Chipnet: Enabling Large-scale Backscatter Network with Processor-free Devices"
     authors: Yihang Song, Chao Song, Li Lu, Shen Yang, <strong>Songfan Li</strong>, Chong Zhang, Qianhe Meng, Xiandong Shao and Haili Wang
@@ -88,13 +67,6 @@ main:
     pdf: https://
  #   image: ./assets/img/teaser_example_2.png
 
-  - title: "Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter"
-    authors: <strong>Songfan Li</strong>, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu, Li Lu and Mo Li
-    conference_short: MobiCom'20
-    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2020.
-    pdf: https://
- #   image: ./assets/img/teaser_example_2.png
-
   - title: "Sentinel: Breaking the Bottleneck of Energy Utilization Efficiency in RF-Powered Devices"
     authors: Songfan Li, Li Lu, Muhammad Jawad Hussain, Yalan Ye and Hongzi Zhu
     conference_short: IoTJ'19
@@ -109,10 +81,4 @@ main:
     pdf: https://
  #   image: ./assets/img/teaser_example_2.png
  
-  - title: "R2: Over-the-Air Reprogramming on Computational RFIDs"
-    authors: Die Wu, Muhammad Jawad Hussain, Songfan Li and Li Lu
-    conference_short: RFID'16
-    conference: IEEE RFID Conference, 2016.
-    pdf: https://
- #   image: ./assets/img/teaser_example_2.png
 
