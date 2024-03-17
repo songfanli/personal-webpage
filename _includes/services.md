@@ -5,6 +5,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.computer.org/csdl/journal/tm"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90"><autocolor>IEEE/ACM Transactions on Networking (TON)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"><autocolor>IEEE Transactions on Wireless Communications (TWC)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/tosn"><autocolor>ACM Transactions on Sensor Networks (TOSN)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/imwut"><autocolor>ACM IMWUT/Ubicomp 2020</autocolor></a></li>
   <li><a href=""><autocolor>IEEE International Conference on Parallel and Distributed Systems (ICPADS 2018) </autocolor></a></li>
