@@ -1,0 +1,118 @@
+main:
+
+#  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+#    conference_short: MICCAI
+#    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+#    image: ./assets/img/teaser_example_2.png
+#    notes: Early Accept
+
+#  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+#    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+#    conference_short: CVPR
+#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+#    pdf: https://arxiv.org/pdf/2002.10211.pdf
+#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+#    notes: Oral Presentation
+#    image: ./assets/img/teaser_example.png
+
+## Conference Papaers
+
+  - title: "Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter"
+    authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications"
+    authors: <strong>Songfan Li</strong>, Qianhe Meng, YanXu Bai, Chong Zhang, Yihang Song, Shengyu Li, Li Lu
+    conference_short: MobiCom'23
+    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "LEGO: Empowering Chip-level Functionality Plug-and-play for Next-generation IoT devices"
+    authors: Chong Zhang, <strong>Songfan Li</strong>, Yihang Song, Qianhe Meng, Minghua Chen, YanXu Bai,  Li Lu, Hongzi Zhu
+    conference_short: ASPLOS'23
+    conference: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Frequency Scaling Meets Intermittency: Optimizing Task Rate for RFID-Scale Computing Devices"
+    authors: <strong>Songfan Li</strong>, Shengyu Li, Minghua Chen, Chao Song, Li Lu
+    conference_short: TMC'23
+    conference: IEEE Transactions on Mobile Computing (TMC), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
+  - title: "Passive DSSS: Empowering the Downlink Communication for Backscatter Systems"
+    authors: <strong>Songfan Li</strong>, Hui Zheng, Chong Zhang, Yihang Song, Shen Yang, Minghua Chen, Li Lu and Mo Li
+    conference_short: NSDI'22
+    conference: USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2022.
+    pdf: https://www.usenix.org/conference/nsdi22/presentation/li-songfan
+ #   image: ./assets/img/teaser_example_2.png
+
+## Journal Papaers
+
+  - title: "Chipnet: Enabling Large-scale Backscatter Network with Processor-free Devices"
+    authors: Yihang Song, Chao Song, Li Lu, Shen Yang, <strong>Songfan Li</strong>, Chong Zhang, Qianhe Meng, Xiandong Shao and Haili Wang
+    conference_short: TOSN'22
+    conference: ACM Transaction on Sensor Networks (TOSN), 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "Rethinking Power Efficiency for Next-Generation Processor-Free Sensing Devices"
+    authors: Yihang Song, <strong>Songfan Li</strong>, Chong Zhang, Shengyu Li, Li Lu
+    conference_short: Sensors'22
+    conference: Sensors, 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "BioTouch: Reliable Re-Authentication via Finger Bio-Capacitance and Touching Behavior"
+    authors: Chong Zhang, Songfan Li, Yihang Song, Qianhe Meng, Li Lu, Mengshu Hou
+    conference_short: Sensors'22
+    conference: Sensors, 2022.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "A Spectrum-Efficient Cross-Layer RF Distance Bounding Scheme"
+    authors: Yihang Song, <strong>Songfan Li</strong>, Chong Zhang, Li Lu
+    conference_short: SCN'22
+    conference: Security and Communication Networks, 2021.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "Internet-of-Microchips: Direct Radio-to-Bus Communication with SPI Backscatter"
+    authors: <strong>Songfan Li</strong>, Chong Zhang, Yihang Song, Hui Zheng, Lu Liu, Li Lu and Mo Li
+    conference_short: MobiCom'20
+    conference: ACM International Conference on Mobile Computing and Networking (MobiCom), 2020.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "Sentinel: Breaking the Bottleneck of Energy Utilization Efficiency in RF-Powered Devices"
+    authors: Songfan Li, Li Lu, Muhammad Jawad Hussain, Yalan Ye and Hongzi Zhu
+    conference_short: IoTJ'19
+    conference: IEEE Internet of Things Journal, vol. 6, no. 1, pp. 705-717, Feb. 2019.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
+  - title: "R3: Reliable Over-the-Air Reprogramming on Computational RFIDs"
+    authors: Die Wu, Li Lu, Muhammad Jawad Hussain, Songfan Li, Mo Li and Fengli Zhang
+    conference_short: TECS'17
+    conference: ACM Transactions on Embedded Computing Systems, 2017.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+ 
+  - title: "R2: Over-the-Air Reprogramming on Computational RFIDs"
+    authors: Die Wu, Muhammad Jawad Hussain, Songfan Li and Li Lu
+    conference_short: RFID'16
+    conference: IEEE RFID Conference, 2016.
+    pdf: https://
+ #   image: ./assets/img/teaser_example_2.png
+
