@@ -17,7 +17,7 @@ I am currently focusing on ultra-low power enabling techniques for the Internet 
 
 There are some keywords related to my research:
 </div>
-- **Internet of Things:** LoRa, ultra-low power, battery-free
+- **Internet of Things:** LoRa, RFID, battery-free
 - **Smart Reflection:** meta-surface, backscatter, reconfigurable intelligent surface
 
 ## News
