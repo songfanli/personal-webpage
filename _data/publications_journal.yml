@@ -25,7 +25,7 @@ main:
 
   - title: "Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter"
     authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
-    conference_short: TDSC
+    conference_short: TDSC'23
     conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
     pdf: https://
 #    image: ./assets/img/teaser_example.png
