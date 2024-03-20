@@ -55,7 +55,7 @@ main:
 
  
   - title: "R2: Over-the-Air Reprogramming on Computational RFIDs"
-    authors: Die Wu, Muhammad Jawad Hussain, Songfan Li and Li Lu
+    authors: Die Wu, Muhammad Jawad Hussain, <strong>Songfan Li</strong> and Li Lu
     conference_short: RFID'16
     conference: IEEE RFID Conference, 2016.
     pdf: https://
