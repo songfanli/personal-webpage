@@ -22,7 +22,7 @@ There are some keywords related to my research:
 
 ## News
 
-- **[13 Apr. 2024]** Congurlations! Our paper AcFace was accepted to ACM MobiSys 2024.
+- **[13 Apr. 2024]** Congratulations! Our paper AcFace was accepted to ACM MobiSys 2024.
 - **[25 Nov. 2023]** Hello world! - this page is online :)
 <!--- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 <!-- This content will not appear in the rendered Markdown -->
