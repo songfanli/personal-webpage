@@ -30,6 +30,13 @@ main:
     pdf: https://
 #    image: ./assets/img/teaser_example.png
 
+  - title: "A Lightweight and Chip-Level Reconfigurable Architecture for Next-Generation IoT End Devices"
+    authors: Chong Zhang, <strong>Songfan Li</strong>, Yihang Song, Qianhe Meng, Li Lu, Hongzi Zhu and Xin Wang
+    conference_short: TC'23
+    conference: IEEE Transactions on Computers (TC), 2023.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
 
   - title: "Frequency Scaling Meets Intermittency: Optimizing Task Rate for RFID-Scale Computing Devices"
     authors: <strong>Songfan Li</strong>, Shengyu Li, Minghua Chen, Chao Song, Li Lu
