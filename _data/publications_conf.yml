@@ -27,7 +27,9 @@ main:
     authors: Yanbo Zhang, Panrong Tong, <strong>Songfan Li</strong>, Yaxiong Xie and Mo Li
     conference_short: MobiSys'24
     conference: ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), 2024.
-    pdf: https://
+    pdf: https://wands.sg/publications/full_list/papers/MobiSys_24_1.pdf
+    code: https://github.com/HKUSTWANDS/WANDS_Acoustic-Facial-Recognition
+    notes: Best Artifact Award
 #    image: ./assets/img/teaser_example.png
 
   - title: "Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications"
