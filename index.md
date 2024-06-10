@@ -22,6 +22,7 @@ There are some keywords related to my research:
 
 ## News
 
+- **[05 Jun. 2024]** Congratulations! AcFace won the Best Artifact Award at Mobisys 2024
 - **[13 Apr. 2024]** Congratulations! Our paper AcFace was accepted to ACM MobiSys 2024.
 - **[25 Nov. 2023]** Hello world! - this page is online :)
 <!--- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
