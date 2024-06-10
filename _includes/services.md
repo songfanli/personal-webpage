@@ -7,7 +7,8 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90"><autocolor>IEEE/ACM Transactions on Networking (TON)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"><autocolor>IEEE Transactions on Wireless Communications (TWC)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/tosn"><autocolor>ACM Transactions on Sensor Networks (TOSN)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/imwut"><autocolor>ACM IMWUT/Ubicomp 2020</autocolor></a></li>
+  <li><a href="https://ieee-cas.org/publication/ieee-transactions-network-science-and-engineering"><autocolor>IEEE Transactions on Network Science and Engineering (TNSE)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/imwut"><autocolor>ACM IMWUT/Ubicomp 2020, 2024</autocolor></a></li>
   <li><a href=""><autocolor>IEEE International Conference on Parallel and Distributed Systems (ICPADS 2018) </autocolor></a></li>
   <li><a href="http://www.icccn.org/icccn23/program/index.html"><autocolor>IEEE International Conference on Computer Communications and Networks (ICCCN 2018)</autocolor></a></li>
 </ul>
