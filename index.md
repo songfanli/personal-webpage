@@ -21,7 +21,7 @@ There are some keywords related to my research:
 - **Smart Reflection:** meta-surface, backscatter, reconfigurable intelligent surface
 
 ## News
-- **[06 Jul. 2024]** I received the Honored Doctoral Dissertation Award of SigMobile China at ACM TURC 2024! 🎉
+- **[06 Jul. 2024]** I received the <a href="_includes/SigMobile_China_phd.pdf">Honored Doctoral Dissertation Award</a> from ACM SigMobile China! 🎉
 - **[05 Jun. 2024]** Congratulations! AcFace won the Best Artifact Award at Mobisys 2024.
 - **[13 Apr. 2024]** Congratulations! Our paper AcFace was accepted to ACM MobiSys 2024.
 - **[25 Nov. 2023]** Hello world! - this page is online :)
