@@ -23,6 +23,13 @@ main:
 
 ## Conference Papaers
 
+  - title: "Processor-Sharing Internet of Things Architecture for Large-scale Deployment"
+    authors: Qianhe Meng, Han Wang, Chong Zhang, Yihang Song, <strong>Songfan Li</strong>, Li Lu and Hongzi Zhu
+    conference_short: Sensys'24
+    conference: ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
+
   - title: "Face Recognition In Harsh Conditions: An Acoustic Based Approach"
     authors: Yanbo Zhang, Panrong Tong, <strong>Songfan Li</strong>, Yaxiong Xie and Mo Li
     conference_short: MobiSys'24
