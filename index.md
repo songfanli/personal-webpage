@@ -21,9 +21,10 @@ There are some keywords related to my research:
 - **Smart Reflection:** meta-surface, backscatter, reconfigurable intelligent surface
 
 ## News
+- **[05 Nov. 2024]** Congratulations! RFBus won the <a href="https://sensys.acm.org/2024/program/">Best Paper Award</a>  at Sensys 2024!
 - **[05 Oct. 2024]** Congratulations! RFBus was accepted to ACM Sensys 2024.
 - **[06 Jul. 2024]** I received the <a href="assets/files/SigMobile_China_phd.pdf">Honored Doctoral Dissertation Award</a> from ACM SigMobile China! 🎉
-- **[05 Jun. 2024]** Congratulations! AcFace won the Best Artifact Award at Mobisys 2024.
+- **[05 Jun. 2024]** Congratulations! AcFace won the Best Artifact Award at Mobisys 2024!
 - **[13 Apr. 2024]** Congratulations! Our paper AcFace was accepted to ACM MobiSys 2024.
 - **[25 Nov. 2023]** Hello world! - this page is online :)
 <!--- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
