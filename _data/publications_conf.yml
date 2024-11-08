@@ -27,7 +27,8 @@ main:
     authors: Qianhe Meng, Han Wang, Chong Zhang, Yihang Song, <strong>Songfan Li</strong>, Li Lu and Hongzi Zhu
     conference_short: Sensys'24
     conference: ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)
-    pdf: https://
+    pdf: https://dl.acm.org/doi/10.1145/3666025.3699333
+    notes: Best Paper Award
 #    image: ./assets/img/teaser_example.png
 
   - title: "Face Recognition In Harsh Conditions: An Acoustic Based Approach"
