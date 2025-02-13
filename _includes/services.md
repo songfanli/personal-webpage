@@ -1,6 +1,13 @@
 ## Services
 
 <!-- This content will not appear in the rendered Markdown -->
+
+<h4 style="margin:0 10px 0;">Organizing Committee</h4>
+Local Co-chair, ACM MobiCom 2025
+
+<h4 style="margin:0 10px 0;">Technical Program Committee</h4>
+IEEE ICPADS 2024
+
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.computer.org/csdl/journal/tm"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
