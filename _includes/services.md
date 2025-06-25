@@ -12,6 +12,11 @@
   <li>IEEE ICPADS 2024</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Distinguished Reviewer</h4>
+<ul style="margin:0 0 5px;"> 
+  <li><a href="https://dl.acm.org/journal/tiot"><autocolor>ACM Transactions on Internet of Things (TIOT)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.computer.org/csdl/journal/tm"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
