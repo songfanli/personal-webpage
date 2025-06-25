@@ -22,6 +22,12 @@ main:
 #    image: ./assets/img/teaser_example.png
 
 
+  - title: "Embedding Chips Over the Air: Rethink IoT Architecture for Ubiquitous Sensing"
+    authors: Qianhe Meng, Han Wang, Chong Zhang, Yihang Song, <strong>Songfan Li</strong>, Li Lu, Hongzi Zhu
+    conference_short: TMC'25
+    conference: IEEE Transactions on Mobile Computing (TMC), 2025.
+    pdf: https://
+#    image: ./assets/img/teaser_example.png
 
   - title: "Watch out Your Thumb Drive: Covert Data Theft from Portable Data Storage via Backscatter"
     authors: Shengyu Li, <strong>Songfan Li</strong>, Qingqing Liu, Yihang Song, Chong Zhang, and Li Lu
