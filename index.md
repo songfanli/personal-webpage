@@ -21,6 +21,8 @@ There are some keywords related to my research:
 - **Smart Reflection:** meta-surface, backscatter, reconfigurable intelligent surface
 
 ## News
+- **[Jul. 2025]** Started as a Research Assistant Professor at HKUST CSE
+- **[Jun. 2025]** Invited to serve as a Distinguished Reviewer at ACM TIOT.
 - **[Feb. 2025]** Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/committee.html), looking forward to welcoming you to Hong Kong!
 - **[Dec. 2024]** Congratulations! Hedgehog was accepted to ACM MobiCom 2025.
 - **[Nov. 2024]** Congratulations! RFBus won the <a href="https://sensys.acm.org/2024/program/">Best Paper Award</a>  at Sensys 2024!
