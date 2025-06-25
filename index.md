@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 <div align="justify">
 
-I am a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) and Low Altitude Economy Research Center (LAERC) at the Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk/">HKUST</a>). 
+I am a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) and Low Altitude Economy Research Center (LAERC) at the Hong Kong University of Science and Technology (HKUST). 
 Previously, I was a postdoctoral fellow in CSE under the supervision of <a href="https://cse.hkust.edu.hk/~lim/">Prof. Mo Li</a>. I am fortunate to receive guidance from Prof. Mo Li both at HKUST and previously at <a href="https://www.ntu.edu.sg/">NTU</a> (as a research fellow from July 2023 to October 2023 and as a visiting student from May 2021 to September 2022). I obtained my Ph.D. in 2022 from the University of Electronic Science and Technology of China (<a href="https://en.uestc.edu.cn/">UESTC</a>), where I had the privilege of being supervised by <a href="https://www.scse.uestc.edu.cn/info/1081/12001.htm">Prof. Li Lu</a>. For more information, please refer to my <a href="./assets/files/curriculum_vitae.pdf">CV</a>.
 </div>
 
