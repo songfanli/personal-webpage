@@ -21,6 +21,11 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
+  - title: "LoRaMirror: Illuminating Blind Spots in Urban LPWAN with Reflective Smart Surfaces"
+    authors: <strong>Songfan Li</strong>, Yanbo Zhang, Jansen Christian Liando, Li Lu, Mo Li
+    conference_short: TMC'25
+    conference: IEEE Transactions on Mobile Computing (TMC), 2025.
+    pdf: https://
 
   - title: "Embedding Chips Over the Air: Rethink IoT Architecture for Ubiquitous Sensing"
     authors: Qianhe Meng, Han Wang, Chong Zhang, Yihang Song, <strong>Songfan Li</strong>, Li Lu, Hongzi Zhu
