@@ -22,6 +22,12 @@ main:
 #    image: ./assets/img/teaser_example.png
 
 
+  - title: "Remote Intermittency Control for RF-powered Devices via Backscatter Communication"
+    authors: <strong>Songfan Li</strong>, Shengyu Li, YanXu Bai, Li Lu
+    conference_short: TMC'26
+    conference: IEEE Transactions on Mobile Computing (TMC), 2026.
+    #pdf: https://
+
   - title: "LoRaMirror: Illuminating Blind Spots in Urban LPWAN with Reflective Smart Surfaces"
     authors: <strong>Songfan Li</strong>, Yanbo Zhang, Jansen Christian Liando, Li Lu, Mo Li
     conference_short: TMC'25
