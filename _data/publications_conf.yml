@@ -23,6 +23,12 @@ main:
 
 ## Conference Papaers
 
+  - title: "TriLoRa: Improving LoRa PHY Data Rate for High-Density LoRaWAN"
+    authors: Yanbo Zhang, Qirui Liu, <strong>Songfan Li</strong> and Mo Li
+    conference_short: ICDCS'26
+    conference: IEEE International Conference on Distributed Computing Systems (ICDCS)
+    #pdf: https://dl.acm.org/doi/10.1145/3666025.3699333
+
   - title: "μMan:Towards Device-Agnostic Power Management for Battery-free IoT"
     authors: Chong Zhang, Han Wang, Qianhe Meng, Yize Zhao, Shengyu Li, <strong>Songfan Li</strong>, Zetao Gao, Li Lu and Hongzi Zhu
     conference_short: SenSys'26
