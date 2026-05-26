@@ -9,6 +9,7 @@
 
 <h4 style="margin:0 10px 0;">Technical Program Committee</h4>
 <ul style="margin:0 0 5px;"> 
+  <li> NAS 2026 (Networking Track)</li>
   <li>IEEE ICPADS 2024</li>
 </ul>
 
