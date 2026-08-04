@@ -12,7 +12,9 @@ Previously, I was a postdoctoral fellow in CSE under the supervision of <a href=
 <br>
 
 ## News
-- **[Mar. 2026]** Congratulations! AeroRelief won the Gold Medal with Congratulations of the Jury from Geneva 2026! 🎉
+
+- **[Jun. 2026]** Awarded the RGC General Research Fund (GRF)
+- **[Mar. 2026]** Congratulations! [AeroRelief](https://wands.hk/projects/laerc/) won the Gold Medal with Congratulations of the Jury from Geneva 2026! 🎉
 - **[Jul. 2025]** Started as a Research Assistant Professor at HKUST CSE
 - **[Jun. 2025]** Invited to serve as a Distinguished Reviewer at ACM TIOT.
 - **[Feb. 2025]** Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/committee.html), looking forward to welcoming you to Hong Kong!
